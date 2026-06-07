@@ -47,8 +47,7 @@
 }
 
 body {
-  background-color: var(--bg-primary);
-  background-image: var(--gradient-glow);
+  background: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #9400D3);
   background-attachment: fixed;
   color: var(--text-primary);
   overflow-x: hidden;
